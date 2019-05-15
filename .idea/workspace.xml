@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91a96cfa-0806-440b-b1be-c00b842ebb0f" name="Default Changelist" comment="" />
+    <list default="true" id="91a96cfa-0806-440b-b1be-c00b842ebb0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lombok.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lombok.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,21 +41,36 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="876241240">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="23" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="106" selection-start-line="106" selection-end-line="106" />
+            <state relative-caret-position="436">
+              <caret line="104" column="41" selection-start-line="104" selection-start-column="41" selection-end-line="104" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lombok.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -73,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/joanadantas/lombok/builder/customsetter/BuilderWithCustomSetterUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,7 +115,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/joanadantas/lombok/builder/singular/BuilderWithSingularSupportForCollectionsUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-713">
+            <state relative-caret-position="90">
               <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
@@ -103,7 +124,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/getter/GetterLazy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
+            <state relative-caret-position="195">
               <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -138,6 +159,7 @@
       <find>Pojo</find>
       <find>GetterBoolean.java</find>
       <find>org.slf4j</find>
+      <find>notInBasket</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -190,7 +212,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="30" />
+    <option name="x" value="8" />
+    <option name="y" value="35" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -217,72 +240,59 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="lombok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="lombok-with-java-9-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lombok-with-java-9-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lombok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="lombok-with-java-9-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lombok-with-java-9-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lombok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="lombok-with-java-9-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lombok-with-java-9-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lombok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="lombok-with-java-9-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lombok-with-java-9-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lombok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="lombok-with-java-9-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lombok-with-java-9-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lombok" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lombok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="lombok-with-java-9-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lombok-with-java-9-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lombok" type="462c0819:PsiDirectoryNode" />
               <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lombok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lombok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557833631140" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557913694610" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -434,17 +444,17 @@
       <updated>1557263501439</updated>
       <workItem from="1557263504379" duration="569000" />
       <workItem from="1557298976468" duration="8591000" />
+      <workItem from="1557835985751" duration="8504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9160000" />
+    <option name="totallyTimeSpent" value="17664000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="30" width="1440" height="797" extended-state="1" />
-    <editor active="true" />
+    <frame x="8" y="35" width="1440" height="797" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22961374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13519314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -452,10 +462,9 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="7" />
-      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25106382" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39574468" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -467,6 +476,7 @@
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32907802" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -486,33 +496,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/builder/customsetter/Message.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/builder/defaultvalue/Pojo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/builder/ClientBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/getter/GetterBoolean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/getter/GetterLazy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/joanadantas/lombok/builder/customsetter/BuilderWithCustomSetterUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="90">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -529,34 +529,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/joanadantas/lombok/builder/singular/BuilderWithSingularSupportForCollectionsUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-713">
+        <state relative-caret-position="90">
           <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/builder/defaultvalue/Pojo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/getter/GetterLazy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="195">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/getter/GetterBoolean.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/builder/ClientBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joanadantas/lombok/builder/customsetter/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lombok.iml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="104" column="41" selection-start-line="104" selection-start-column="41" selection-end-line="104" selection-end-column="41" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -598,7 +610,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
